@@ -1,5 +1,11 @@
-_pycache_/
+__pycache__/
 *.pyc
 .venv/
 .env
 .bashrc
+*.onnx
+*.pt
+*.pth
+*.engine
+*.tflite
+*.log
